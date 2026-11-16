@@ -1,0 +1,4 @@
+#This is gitignore i.e the files u don't want you github repo to see
+node_modules/
+
+package-lock.json
