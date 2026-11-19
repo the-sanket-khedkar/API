@@ -10,7 +10,7 @@ app.use("/user", userRoutes);
 
 // Root path
 app.get("/", (req, res) => {
-  res.send("Home Page is Live!");
+  res.send("Hello sanket");
 });
 
 app.listen(3000, () => {
